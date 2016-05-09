@@ -12,7 +12,7 @@ You will need to install nodejs as we will use r.js to minify the code (r.js is 
 
 After you install nodejs and npm you can globally install r.js (for Linux/mac you may need sudo)
 
-        npm install requirejs
+        npm install -g requirejs
 
 ------------------------------------
 
